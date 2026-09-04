@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BodhiScan</string>
+    <string name="default_announcement_headline">WELCOME TO BODHISCAN</string>
+    <string name="default_announcement_message">Stream your high-definition digitized family memories.</string>
+    <string name="auth_title">BODHISCAN</string>
+    <string name="auth_subtitle">Enter your 6-digit access code to view your digitized memories</string>
+    <string name="status_authenticating">Verifying access code…</string>
+    <string name="status_invalid_code">No digitized memories found for this code.</string>
+    <string name="status_network_error">Unable to connect to BodhiScan servers.</string>
+    <string name="status_json_error">Invalid server response format.</string>
+    <string name="default_video_description">Press OK on your remote to watch this digitized recording.</string>
+    <string name="tape_header">TAPE</string>
+    <string name="button_clear">Clear</string>
+    <string name="button_backspace">⌫</string>
+    <string name="action_back_to_pin">Change Access Code</string>
+    <string name="player_rewind_10">Rewind 10 seconds</string>
+    <string name="player_forward_10">Forward 10 seconds</string>
+    <string name="player_play">Play</string>
+    <string name="player_pause">Pause</string>
+    <string name="brand_footer_description">Bodhi Industries Logo</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#0F1115</color>
+    <color name="primary_cyan">#00A8FF</color>
+    <color name="card_bg">#1B2230</color>
+    <color name="card_inner">#121824</color>
+    <color name="card_focused">#1E2B3C</color>
+    <color name="error_red">#FF3333</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_light_grey">#CCCCCC</color>
+    <color name="text_grey">#AAAAAA</color>
+    <color name="text_dark_grey">#888888</color>
+</resources>
